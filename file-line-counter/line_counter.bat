@@ -18,7 +18,7 @@ call:countFilesAndLines *.md numFiles numLines
 call:countFilesAndLines *.bat numFiles numLines
 call:countFilesAndLines *.sh numFiles numLines
 call:countFilesAndLines *.java numFiles numLines
-call:countFilesAndLines *.sql numFiles numLines
+call:countFilesAndLines *.scala numFiles numLines
 call:countFilesAndLines *.xml numFiles numLines
 call:countFilesAndLines *.html numFiles numLines
 echo.--------------------------------------------
