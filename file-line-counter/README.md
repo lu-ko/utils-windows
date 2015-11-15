@@ -1,7 +1,5 @@
 # File and line counter for OS Windows
 
----------------------------------------------------------
-
 ## About:
 
 This script counts files with specific extension in current folder (and also in all subfolders) and also counts lines in all found files.
@@ -30,3 +28,7 @@ Number of lines in different types of files:
 
 Press any key to continue . . .
 ```
+
+## Hint:
+
+Edit extensions of files that you want to observe directly in batch script.
